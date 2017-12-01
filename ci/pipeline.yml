@@ -48,3 +48,7 @@ jobs:
     file: attendee-service-source/ci/tasks/smoke-test.yml
     params:
       ATTENDEE_SERVICE_URL: http://attendee-service-impactive-kirby.apps.cumuluslabs.io:8181  #<---- REPLACE ME
+
+
+
+
